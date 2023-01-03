@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=weslleysantana0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/weslleysantana0/weslleysantana0/blob/output/github-contribution-grid-snake.svg)
