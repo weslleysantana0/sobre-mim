@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🌱 Atualmente, estou aprendendo a programar
+🌱 Aprendendo a programar
 
 
 ## 🌐 Redes sociais:
