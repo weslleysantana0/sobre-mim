@@ -1,7 +1,7 @@
 # 💫 About me:
-• Full-stack developer
-• Cybersecurity
-• robotics
+* Full-stack developer
+* Cybersecurity
+* robotics
 
 ## 🌐 Social media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/weslleysantana0) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/weslley0gg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/weslley0gg) 
