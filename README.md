@@ -1,6 +1,7 @@
 # 💫 About me:
 * Full-stack developer
 * Cybersecurity
+* linux
 * robotics
 
 ## 🌐 Social media:
